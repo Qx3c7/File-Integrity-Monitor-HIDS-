@@ -1,0 +1,12 @@
+# Python - pliki tymczasowe
+__pycache__/
+*.pyc
+
+# Dane lokalne i logi
+backups/
+target_dir/
+logs/
+
+# Środowisko wirtualne 
+.venv/
+venv/
